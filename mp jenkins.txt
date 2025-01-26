@@ -1,0 +1,4 @@
+jenkins@MP1
+mail: fanomezantsoamail@gmail.com
+nom d'utilisateur:assad
+githubmp:assad2000@github
